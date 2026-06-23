@@ -5,7 +5,7 @@
       "description": "A basic REST API that responds with a personalized greeting when accessed. Sends back message based on the query parameter provided.",
       "componentType": "service",
       "buildPack": "ballerina",
-      "repositoryUrl": "https://github.com/wso2/integration-samples/",
+      "repositoryUrl": "https://github.com/kaumini/integration-samples",
       "componentPath": "/integrator-default-profile/samples/hello-world-service",
       "thumbnailPath": "https://choreo-shared-choreo-samples-cdne.azureedge.net/icons/hello-world.png",
       "tags": ["HTTP", "Integration", "REST"],
